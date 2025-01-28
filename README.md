@@ -5,7 +5,12 @@
 
 <!--
 **jamesmogoi/jamesmogoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🔭 I’m currently working on Fullstack app
+👯 I’m looking to collaborate on any new tech
+🤝 I’m looking for help with python
+🌱 I’m currently learning python
+💬 Ask me about anything
+⚡ Fun fact am a tech enthusiast
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on fullstack app
