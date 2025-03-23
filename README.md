@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fullstack app<br>👯 I’m looking to collaborate on any project<br>🤝 I’m looking for help with building apps and deployment<br>🌱 I’m currently learning python<br>💬 Ask me about tech life<br>⚡ Fun fact :am a tech enthusiast
+🔭 I’m currently working on Fullstack app<br> I’m looking to collaborate on any project<br>🤝 I’m looking for help with building apps and deployment<br>🌱 I’m currently learning python<br>💬 Ask me about tech life<br>⚡ Fun fact :am a tech enthusiast
 
 
 ## 🌐 Socials:
