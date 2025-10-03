@@ -25,6 +25,7 @@
 Senior Full-Stack Engineer with proven expertise in designing and deploying **scalable, cloud-native applications**. I've reduced system latency by **40%** and deployment times by **60%** across production systems handling **100K+ daily requests**. Expert in modern Python frameworks, React/Next.js ecosystems, and emerging AI integration.
 
 ### 🏆 Key Achievements
+
 - **🔄 Processed** 500K+ production transactions with zero security incidents
 - **📈 Scaled** microservices to serve 50K+ concurrent users
 - **⚡ Achieved** sub-100ms API response times for 95th percentile requests
@@ -102,6 +103,7 @@ class JamesMogoi:
 ## 🚀 Featured Production Projects
 
 ### 🏪 AI-Enhanced E-Commerce Platform
+
 <div align="left">
   
   [![Tech Stack](https://img.shields.io/badge/Stack-FastAPI%20|%20React%20|%20PostgreSQL%20|%20Kubernetes-blue?style=for-the-badge)](https://github.com/jamesmogoi)
@@ -111,9 +113,11 @@ class JamesMogoi:
   - **Impact**: Increased average order value by 28% through ML recommendations
   - **Scale**: Handles 10x traffic spikes with auto-scaling Kubernetes clusters
   - **Security**: Zero security incidents with comprehensive OWASP implementation
+  
 </div>
 
 ### 📊 Real-Time Trading Analytics Platform
+
 <div align="left">
   
   [![Tech Stack](https://img.shields.io/badge/Stack-FastAPI%20|%20WebSockets%20|%20Redis%20|%20TensorFlow-blue?style=for-the-badge)](https://github.com/jamesmogoi)
@@ -123,9 +127,11 @@ class JamesMogoi:
   - **Performance**: Sub-50ms latency for real-time data processing
   - **Users**: Serving 5K+ professional traders across 15 countries
   - **ML Integration**: TensorFlow Serving for production model deployment
+  
 </div>
 
 ### 💾 Distributed Cloud Storage System
+
 <div align="left">
   
   [![Tech Stack](https://img.shields.io/badge/Stack-Go%20|%20gRPC%20|%20MinIO%20|%20Docker_Swarm-blue?style=for-the-badge)](https://github.com/jamesmogoi)
@@ -135,6 +141,7 @@ class JamesMogoi:
   - **Architecture**: Automatic sharding and replication with erasure coding
   - **Concurrency**: Supports 1K+ concurrent uploads with resume capability
   - **Reliability**: 99.99% durability guarantee with multi-region replication
+  
 </div>
 
 ---
@@ -154,6 +161,7 @@ class JamesMogoi:
 </div>
 
 ### 📚 Continuous Learning Path (2025)
+
 - 🔧 **Q1**: WebAssembly, Edge Computing (Cloudflare Workers)
 - 🤖 **Q2**: Advanced AI Engineering, LLM Fine-tuning
 - ⛓️ **Q3**: Web3 Development, Smart Contracts (Solidity)
@@ -189,6 +197,7 @@ class JamesMogoi:
 </div>
 
 ### 📦 Notable Contributions
+
 - 🔥 **500+ commits** across 10 high-impact projects
 - 📦 Maintained Python package with **50K+ monthly downloads**
 - 🔒 Implemented critical security patches for auth library used by **100+ companies**
@@ -212,15 +221,18 @@ class JamesMogoi:
 <div align="center">
 
 ### 💼 Open to Opportunities
+
 **Senior Full-Stack** • **Staff Engineer** • **Technical Lead** • **Founding Engineer**
 
 ### 🌍 Work Preferences
+
 - **Location**: Nairobi, Kenya (GMT+3) - Available for all timezones
 - **Setup**: Fiber internet (100Mbps), Professional home office
 - **Availability**: Immediate start, On-call rotation ready
 - **Authorization**: Kenya (Open to visa sponsorship)
 
 ### 📬 Get in Touch
+
 Feel free to reach out for collaborations, technical discussions, or opportunities!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mogoikwemoi@gmail.com)
@@ -243,10 +255,15 @@ Feel free to reach out for collaborations, technical discussions, or opportuniti
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
+
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=jamesmogoi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly built by James Mogoi | Refined with ❤️ by ChatGPT -->
+</div>
+
+<!-- Proudly built by James Mogoi 
