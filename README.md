@@ -52,6 +52,10 @@ class JamesMogoi:
         
     def say_hi(self):
         return "Thanks for visiting! Let's build something amazing together 🚀"
+
+# Instantiate and greet
+me = JamesMogoi()
+print(me.say_hi())
 ```
 
 ---
@@ -259,6 +263,8 @@ Feel free to reach out for collaborations, technical discussions, or opportuniti
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
