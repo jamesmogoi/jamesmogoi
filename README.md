@@ -8,7 +8,7 @@
     <strong>🚀 500K+ transactions processed | 👥 50K+ users served | ⚡ 99.9% uptime achieved</strong>
   </p>
   
-  [![Email](https://img.shields.io/badge/Email-mogoikwemoi@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mogoikwemoi@gmail.com)
+  [![Email](https://img.shields.io/badge/0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mogoikwemoi@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamesmogoi)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jamesmogoi.dev)
   [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Top_10%25-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jamesmogoi)
