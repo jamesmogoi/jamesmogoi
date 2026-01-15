@@ -1,4 +1,4 @@
-# James Mogoi Kwemoi
+# James Mogoi 
 
 <div align="center">
   
