@@ -64,5 +64,3 @@ Linux · Docker · Git · Vercel · CCNA-level networking
 
 Nairobi, Kenya (GMT+3) — open to cybersecurity attachment, junior security roles and remote work.
 
-- Email: [your email]
-- LinkedIn: [your profile]
