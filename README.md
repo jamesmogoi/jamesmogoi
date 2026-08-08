@@ -16,7 +16,7 @@ Application security · Payment systems security · Incident response · Digital
 
 ## Production Work
 
-### [veesasolutions.co.ke](https://veesasolutions.co.ke)
+### 
 Live e-commerce platform built and maintained for a Nairobi business. Real
 customers, real transactions, in production.
 
